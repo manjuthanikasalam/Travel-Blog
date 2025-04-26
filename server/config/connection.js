@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 
-mongoose.connect('mongodb://localhost:27017/weTravelToo_db', {
+mongoose.connect('mongodb+srv://manju:manju1013@manju.nlsyjda.mongodb.net/?retryWrites=true&w=majority&appName=Manju', {
 
 
 
